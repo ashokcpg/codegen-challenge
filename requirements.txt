@@ -1,0 +1,7 @@
+flask
+matplotlib
+networkx
+matplotlib
+radon
+pygount
+coverage
